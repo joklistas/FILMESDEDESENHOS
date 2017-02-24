@@ -6,6 +6,9 @@
 
 #EXTINF:-1, [COLOR red]ATUALIZADA EM 24/01/2017[/COLOR]
 
+#EXTINF:-1 tvg-logo="http://i3.wp.com/megafilmeshd21.org/wp-content/uploads/2016/10/Trolls-2016-movie-2.jpg" group-title="DESENHO",Trolls
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/TRLS.mp4
+
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/mulan/images/7/7f/Mulan_Capa.jpg/revision/latest?cb=20120525030942&path-prefix=pt" group-title="DESENHO",Mulan 1
 http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/MULAN01.mp4
 
