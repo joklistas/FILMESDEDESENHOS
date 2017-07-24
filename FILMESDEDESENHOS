@@ -6,7 +6,7 @@
 
 #EXTINF:-1, [COLOR red]ATUALIZADA EM 24/02/2017[/COLOR]
 
-#EXTINF:-1 tvg-logo="http://i3.wp.com/megafilmeshd21.org/wp-content/uploads/2016/10/Trolls-2016-movie-2.jpg" group-title="DESENHO",Mansão magica
+#EXTINF:-1 tvg-logo="http://integracaocultural.com/wp-content/uploads/2015/10/A-mans%C3%A3o-m%C3%A1gica..jpg" group-title="DESENHO",Mansão magica
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UZBwpYvcIOg
 
 #EXTINF:-1 tvg-logo="http://i3.wp.com/megafilmeshd21.org/wp-content/uploads/2016/10/Trolls-2016-movie-2.jpg" group-title="DESENHO",Trolls
