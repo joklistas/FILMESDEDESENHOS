@@ -7,7 +7,7 @@
 #EXTINF:-1, [COLOR red]ATUALIZADA EM 24/02/2017[/COLOR]
 
 #EXTINF:-1 tvg-logo="http://ytimg.googleusercontent.com/vi/vfeHmaPLvEU/mqdefault.jpg" group-title="DESENHO",LARVA 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JqnDAslXGa8 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=luY76cCUFiI
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hNQ_NbLpgE4/maxresdefault.jpg" group-title="DESENHO",LARVA 2
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JI5v1dtwSDI 
