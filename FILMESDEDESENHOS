@@ -6,6 +6,15 @@
 
 #EXTINF:-1, [COLOR red]ATUALIZADA EM 24/02/2017[/COLOR]
 
+#EXTINF:-1 tvg-logo="http://ytimg.googleusercontent.com/vi/vfeHmaPLvEU/mqdefault.jpg" group-title="DESENHO",LARVA 1
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JqnDAslXGa8 
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hNQ_NbLpgE4/maxresdefault.jpg" group-title="DESENHO",LARVA 2
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JI5v1dtwSDI 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzRYqVzR5YYuP406kwXjXpH_VkRYa8OBlcn7BvOuvRR_QIuAYn" group-title="DESENHO",A Bailarina
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=77RwRCLPjy8 
+
 #EXTINF:-1 tvg-logo="http://integracaocultural.com/wp-content/uploads/2015/10/A-mans%C3%A3o-m%C3%A1gica..jpg" group-title="DESENHO",Mansão magica
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UZBwpYvcIOg
 
