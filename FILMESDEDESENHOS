@@ -6,6 +6,9 @@
 
 #EXTINF:-1, [COLOR red]ATUALIZADA EM 24/02/2017[/COLOR]
 
+#EXTINF:-1 tvg-logo="http://i3.wp.com/megafilmeshd21.org/wp-content/uploads/2016/10/Trolls-2016-movie-2.jpg" group-title="DESENHO",Mansão magica
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UZBwpYvcIOg
+
 #EXTINF:-1 tvg-logo="http://i3.wp.com/megafilmeshd21.org/wp-content/uploads/2016/10/Trolls-2016-movie-2.jpg" group-title="DESENHO",Trolls
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/TRLS.mp4
 
