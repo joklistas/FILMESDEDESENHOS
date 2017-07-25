@@ -8,11 +8,10 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hNQ_NbLpgE4/maxresdefault.jpg" group-title="DESENHO",LARVA 2
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=luY76cCUFiI 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hNQ_NbLpgE4/maxresdefault.jpg" group-title="DESENHO",LEGO BATMAN: O FILME
+https://video.googleusercontent.com/AL2Lh0HtD6zUnvnIJiZJdEM_jDBjOVlE4f3nh___MoP5khf-fqSDw2mA8QO27VT3XYeXkMVa3tP0Vuv6UBXrw8nlJR_L8Y1qsOLBzNy2W9hyumN0v4NrYk2wzmEs-B-FTLzTBL3h8tM--njDUw4EFzbrqZmbn9mKQj4zUoQcKT0Dqnya94QJWlU
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzRYqVzR5YYuP406kwXjXpH_VkRYa8OBlcn7BvOuvRR_QIuAYn" group-title="DESENHO",A Bailarina
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=77RwRCLPjy8 
+
 
 #EXTINF:-1 tvg-logo="http://integracaocultural.com/wp-content/uploads/2015/10/A-mans%C3%A3o-m%C3%A1gica..jpg" group-title="DESENHO",Mansão magica
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UZBwpYvcIOg
