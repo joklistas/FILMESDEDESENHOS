@@ -46,10 +46,10 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fJUHeh
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-_H3yp8TaRNE/U4jT0kZdpsI/AAAAAAAAMTk/XG-89daI6Zw/s1600/LEGO_Batman_Beyond_Gotham_6.jpg" group-title="DESENHO",LEGO - Batman 3 - O Filme
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_E05sDasV5U
 
-#EXTINF:-1 tvg-logo="http://baixargamestorrent.biz/wp-content/uploads/2015/07/Baixar-LEGO-Star-Wars-Complete-Saga-PC-Torrent-capa.jpg" group-title="DESENHO",LEGO - Star Wars O Despertar da Força - O Filme
+#EXTINF:-1 tvg-logo="http://baixargamestorrent.biz/wp-content/uploads/2015/07/Baixar-LEGO-Star-Wars-Complete-Saga-PC-Torrent-capa.jpg" group-title="DESENHO",LEGO - Star Wars O Despertar da Forca - O Filme
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=vmpdXGT-Wy4
 
-#EXTINF:-1 tvg-logo="https://gigaingames.files.wordpress.com/2014/04/ebf89-legothehobbitpc.jpg" group-title="DESENHO",LEGO - O Hobbit - O Filme
+#EXTINF:-1 tvg-logo="https://gigaingames.files.wordpress.com/2014/04/ebf89-legothehobbitpc.jpg" group-title="DESENHO",LEGO: O Hobbit - O Filme
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OVLbq6sqf-A
 
 
