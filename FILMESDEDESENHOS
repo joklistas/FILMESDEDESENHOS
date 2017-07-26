@@ -37,19 +37,19 @@ http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/MULAN01.mp4
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-VEoU2SmRhW0/VGaMsYhCt7I/AAAAAAAADjI/VmEPOIpdMK8/s1600/Capa%2BA%2BPequena%2BSeria.jpg" group-title="DESENHO",A Pequena Sereia 1
 http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/APQNSRAFILME01.mp4
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-b8M--6qG_EM/VcJcyIJLJWI/AAAAAAAAQPk/A8E7BmR64sA/s1600/LEGO_Avengers_Cover.jpg" group-title="DESENHO",[COLOR green]LEGO - Os Vingadores - O Filme[/COLOR]
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-b8M--6qG_EM/VcJcyIJLJWI/AAAAAAAAQPk/A8E7BmR64sA/s1600/LEGO_Avengers_Cover.jpg" group-title="DESENHO",LEGO - Os Vingadores - O Filme
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=pxqxdk2OB_w
 
-#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/proxy/nee_deoSGlHWrz_fogqxghn4lDdd02QQCbxNotMkxYTdNdVpgLHmlXDMby4L6SpFBoTCBYm56IxZD2oqgtWRRpso1RDggV-YIOvd6KSSBl3G13HanYqW8RtoRFbkID7UhTqzRfal5lhCBCmKTQ=s0-d" group-title="DESENHO",[COLOR green]LEGO - Jurassic World - O Filme[/COLOR]
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/proxy/nee_deoSGlHWrz_fogqxghn4lDdd02QQCbxNotMkxYTdNdVpgLHmlXDMby4L6SpFBoTCBYm56IxZD2oqgtWRRpso1RDggV-YIOvd6KSSBl3G13HanYqW8RtoRFbkID7UhTqzRfal5lhCBCmKTQ=s0-d" group-title="DESENHO",LEGO - Jurassic World - O Filme
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fJUHehFG-AM
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-_H3yp8TaRNE/U4jT0kZdpsI/AAAAAAAAMTk/XG-89daI6Zw/s1600/LEGO_Batman_Beyond_Gotham_6.jpg" group-title="DESENHO",[COLOR green]LEGO - Batman 3 - O Filme[/COLOR]
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-_H3yp8TaRNE/U4jT0kZdpsI/AAAAAAAAMTk/XG-89daI6Zw/s1600/LEGO_Batman_Beyond_Gotham_6.jpg" group-title="DESENHO",LEGO - Batman 3 - O Filme
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_E05sDasV5U
 
-#EXTINF:-1 tvg-logo="http://baixargamestorrent.biz/wp-content/uploads/2015/07/Baixar-LEGO-Star-Wars-Complete-Saga-PC-Torrent-capa.jpg" group-title="DESENHO",[COLOR green]LEGO - Star Wars O Despertar da Força - O Filme[/COLOR]
+#EXTINF:-1 tvg-logo="http://baixargamestorrent.biz/wp-content/uploads/2015/07/Baixar-LEGO-Star-Wars-Complete-Saga-PC-Torrent-capa.jpg" group-title="DESENHO",LEGO - Star Wars O Despertar da Força - O Filme
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=vmpdXGT-Wy4
 
-#EXTINF:-1 tvg-logo="https://gigaingames.files.wordpress.com/2014/04/ebf89-legothehobbitpc.jpg" group-title="DESENHO",[COLOR green]LEGO - O Hobbit - O Filme[/COLOR] 
+#EXTINF:-1 tvg-logo="https://gigaingames.files.wordpress.com/2014/04/ebf89-legothehobbitpc.jpg" group-title="DESENHO",LEGO - O Hobbit - O Filme
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OVLbq6sqf-A
 
 
