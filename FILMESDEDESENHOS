@@ -16,12 +16,29 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ABLRN.mp4
 #EXTINF:-1 tvg-logo="https://jovemnerd.com.br/wp-content/uploads/2016/09/moana-disney-mar-1-760x1086.jpg" group-title="DESENHO",MOANA - UM MAR DE AVENTURAS
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MONUMRDAVTRA.mp4
 
+#EXTINF:-1 tvg-logo="http://capasjfhd.com/wp-content/uploads/2016/08/IC_101-DALMATAS-2-desenho.png" group-title="DESENHO",101 Dalmatas 2: A Aventura de Patch em Londres
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/101DMLTS2.mp4
 
 #EXTINF:-1 tvg-logo="http://www.claquete.com/fotos/galeria_fotos/40307.jpg" group-title="DESENHO",Sing: Quem Canta Seus Males Espanta
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/SNGQCSME.mp4
 
+#EXTINF:-1 tvg-logo="http://www.acidigital.com//imagespp/size680/filme_cegonhasss.jpg" group-title="DESENHO",Cegonhas: A Historia que Nao te Contaram 2016 
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/CGNHSAHSTQNTC.mp4
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-p70ojfx7iGs/V3qLyx0NI-I/AAAAAAAAAlM/i-vntFrEwH8LcgDDCaTJtVfArC9qA6bGACLcB/s1600/bow%2Bwow.png" group-title="DESENHO",Procurando Dory 2016
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/PRCNDRY.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-z3ZHyRPYdcU/VpFQTEwW9DI/AAAAAAAAFHA/rnbBJHGKYCo/s400/O%2BBom%2BDinossauro%2B2016.jpg" group-title="DESENHO",O Bom Dinossauro 2016
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OBOMDINO.mp4
+
 #EXTINF:-1 tvg-logo="http://filmesserieshd.com/wp-content/uploads/2015/05/assistir-as-aventuras-de-peabody-e-sherman-dublado.jpg" group-title="DESENHO",As Aventuras de Peabody & Sherman
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASAVNTSDPABYESHRM.mp4
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-CciJX6nnO5c/Vvx21QmVXSI/AAAAAAAAG8w/6gyNHNHgq4IY4Az9F4Gh51KWMLx4ADcUg/s1600/Batman%2BLego%2BO%2BFilme%2B-%2BSuper%2BHer%25C3%25B3is%2BSe%2BUnem%2BCapa.jpg" group-title="DESENHO",Lego Batman: O Filme : Super Herois se Unem 2016 
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/BATMLGOFLMSPRHRSUN.mp4
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-HdigACDXG1U/V5pBnFJaG9I/AAAAAAAASPw/B3Xh0Ex3xD4DWZhUNVwUnIUnFmFYPzznwCLcB/s1600/IC_Angry%2BBirds%2BO%2BFilme%2B2.png" group-title="DESENHO",Angry Birds: O Filme 2016
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ANGRYBRDSFLM.mp4
 
 #EXTINF:-1 tvg-logo="http://i3.wp.com/megafilmeshd21.org/wp-content/uploads/2016/10/Trolls-2016-movie-2.jpg" group-title="DESENHO",Trolls
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/TRLS.mp4
@@ -73,18 +90,6 @@ http://assistir.querofilmehd.com/filmes/Avi%C3%B5es.2013.1080p.BluRay.x264-ALLiA
 http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/APQNSRAFILME02.mp4
 
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-ODEMVNWWE7A/VOIt5yxC-CI/AAAAAAAAD7I/_MghKNsbFUM/s1600/Capa%2BO%2BRei%2BLe%C3%A3o.png" group-title="DESENHO",O Rei Leão 1
-http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/REILAO01.mp4
-
-
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/f2/67/5b/f2675bbf2262a6cd40e9400d6d7965af.jpg" group-title="DESENHO",O Rei Leão 2: O Reino de Simba
-http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/REILAO02.mp4
-
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-uZMigtb69kQ/V0N8QT0NNaI/AAAAAAAANTM/dFFjLDy6xNwQPAUd_nzh51FAxX3JyJl8wCLcB/s1600/1%2BCAP3.jpg" group-title="DESENHO",O Rei Leão 3: Hakuna Matata
-http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/REILAO03.mp4
-
-
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_qH72_oaXfX4/SxFuukYlQRI/AAAAAAAACI0/TadB5L8YTrE/s1600/Shrek.jpg" group-title="DESENHO",Shrek 1
 http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/SHREK01.mp4
 
@@ -129,18 +134,6 @@ http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/OQUSRDNZS.mp4
 http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ASAVNTRSDLGDJSTCARMD.mp4
 
 
-#EXTINF:-1 tvg-logo="http://www.acidigital.com//imagespp/size680/filme_cegonhasss.jpg" group-title="DESENHO",Cegonhas: A Historia que Nao te Contaram 2016 
-http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/CGNHSAHSTQNTC.mp4
-
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-p70ojfx7iGs/V3qLyx0NI-I/AAAAAAAAAlM/i-vntFrEwH8LcgDDCaTJtVfArC9qA6bGACLcB/s1600/bow%2Bwow.png" group-title="DESENHO",Procurando Dory 2016
-http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/PRCNDRY.mp4
-
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-z3ZHyRPYdcU/VpFQTEwW9DI/AAAAAAAAFHA/rnbBJHGKYCo/s400/O%2BBom%2BDinossauro%2B2016.jpg" group-title="DESENHO",O Bom Dinossauro 2016
-http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OBOMDINO.mp4
-
-
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Uz5QzEHpnbc/V3rzdkGR8GI/AAAAAAAAAm8/Qqn4HTz0q-8PeW3Ve12le1zGkidyGPhnQCLcB/s1600/bow%2Bwow.png" group-title="DESENHO",A Era do Gelo: O Big Bang 2016
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/AERDGLOBB.mp4
 
@@ -173,8 +166,7 @@ http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/101DMLTS1.mp4
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/101DMLTS2.mp4
 
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-lB7WtwcBiiA/V77jk5UhH8I/AAAAAAAAZE4/Gl4UeThpe74_Xezcw8qAUX0CT7n6Bsm2wCLcB/s1600/Pets%2B-%2BA%2BVida%2BSecreta%2Bdos%2BBichos%2B...jpg" group-title="DESENHO",Pets: A Vida Secreta dos Bichos 2016
-http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/PETSAVSCDBS.mp4
+
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6j-z5UBBSYs/V7JMtUNrtwI/AAAAAAAAAvE/VSkQYj0PFzwc35nTyc_o6Qr7MkmLSoDCgCPcB/s1600/fdasf.jpg" group-title="DESENHO",Barbie: Aventura nas Estrelas 2016
@@ -185,8 +177,7 @@ http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/BARBIRAVNESTLS.mp4
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/MGLOMENLB.mp4
 
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-CciJX6nnO5c/Vvx21QmVXSI/AAAAAAAAG8w/6gyNHNHgq4IY4Az9F4Gh51KWMLx4ADcUg/s1600/Batman%2BLego%2BO%2BFilme%2B-%2BSuper%2BHer%25C3%25B3is%2BSe%2BUnem%2BCapa.jpg" group-title="DESENHO",Lego Batman: O Filme : Super Herois se Unem 2016 
-http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/BATMLGOFLMSPRHRSUN.mp4
+
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IzqKWECwwjI/VsUXSFWxPjI/AAAAAAAAFK8/oOZhdUuERXw/s400/Lego%2BLiga%2BDa%2BJusti%25C3%25A7a%2BCombat%2BCosmico%2B2016%2BDVD-R.jpg" group-title="DESENHO",Lego DC Comics Super Herois: Liga da Justica: Combate Cosmico 2016
@@ -197,8 +188,7 @@ http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/LEGLGDJSTCCMBTCSMCO.mp4
 http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/LEGOFRNDS.mp4
 
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-HdigACDXG1U/V5pBnFJaG9I/AAAAAAAASPw/B3Xh0Ex3xD4DWZhUNVwUnIUnFmFYPzznwCLcB/s1600/IC_Angry%2BBirds%2BO%2BFilme%2B2.png" group-title="DESENHO",Angry Birds: O Filme 2016
-http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ANGRYBRDSFLM.mp4
+
 
 
 #EXTINF:-1 tvg-logo="http://designercoverscustom.net.br/index.php?app=downloads&module=display&section=screenshot&record=602&id=179&full=1" group-title="DESENHO",Snoopy e Charlie Brown: Peanuts, O Filme 2016
