@@ -173,6 +173,11 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AERDGL4.mp4
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-5oODjdBshv8/VcfEFM9rG6I/AAAAAAAATzs/d6pz8CBPX7E/s1600/Capa%2B101%2Bmenor.png" group-title="DESENHO",101 Dalmatas 1: A Guerra dos Dalmatas
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/101DMLTS1.mp4
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-5CufOwCf4yM/Tbq45JOgvvI/AAAAAAAABzc/PbsHG4wo1ao/s1600/rio+dvd.jpg" group-title="DESENHO",Rio
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/RIO.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/01/24/21/36/094174.jpg" group-title="DESENHO",Rio 2
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/RIO2.mp4
 
 #EXTINF:-1 tvg-logo="http://capasjfhd.com/wp-content/uploads/2016/08/IC_101-DALMATAS-2-desenho.png" group-title="DESENHO",101 Dalmatas 2: A Aventura de Patch em Londres
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/101DMLTS2.mp4
